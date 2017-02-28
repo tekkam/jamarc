@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADWpln9Nsu0GajGV8NhNOVwAAAAACAAAAAAAQZgAAAAEAACAAAADxvThdZ8FsajZVCl7wEP1/B7Hqmv4Wwk8irncc/46LpQAAAAAOgAAAAAIAACAAAABMooJPAGNyV0tsDsxbS+ykBxQ+YqleTK/LFwLsQ1nJmSAAAADplt0at9yzsz/2IrHKINS5W2zf53PQ+1JqfnmOYn6JLkAAAAAHL8fLeCPG7vH0NI/eqqyT940ePQvjnZBucWx/XAN7XlooXy8bbugS5zyJTfFGQO/1RNTiVC22Ww9ZRtwWGjbE</EncryptedPassword>
+    <_PublishTargetUrl>ftp://mcpcool.somee.com/www.mcpcool.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Activas.aspx">
+      <publishTime>02/23/2017 22:17:51</publishTime>
+    </File>
+    <File Include="bin/JAMARC 2.dll">
+      <publishTime>02/23/2017 23:37:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/22/2017 10:59:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/22/2017 10:59:47</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/22/2017 10:59:47</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/22/2017 10:59:47</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/22/2017 10:59:47</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/22/2017 10:59:48</publishTime>
+    </File>
+    <File Include="Cerradas.aspx">
+      <publishTime>02/23/2017 22:43:47</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/23/2017 22:46:12</publishTime>
+    </File>
+    <File Include="Historico.aspx">
+      <publishTime>02/23/2017 23:20:30</publishTime>
+    </File>
+    <File Include="IngresarUsuario.aspx">
+      <publishTime>02/23/2017 22:50:46</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>02/23/2017 22:51:12</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>02/23/2017 10:15:10</publishTime>
+    </File>
+    <File Include="ModificarSolicitud.aspx">
+      <publishTime>02/23/2017 23:22:04</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/22/2017 12:21:53</publishTime>
+    </File>
+    <File Include="Panel.aspx">
+      <publishTime>02/23/2017 23:44:58</publishTime>
+    </File>
+    <File Include="PeticionesUsuario.aspx">
+      <publishTime>02/23/2017 23:34:10</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>02/24/2017 00:54:50</publishTime>
+    </File>
+    <File Include="RegistroUsuarios.aspx">
+      <publishTime>02/23/2017 22:58:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.js">
+      <publishTime>02/22/2017 12:21:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.js">
+      <publishTime>02/22/2017 12:21:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.map">
+      <publishTime>02/22/2017 12:21:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.js">
+      <publishTime>02/22/2017 12:21:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.min.js">
+      <publishTime>02/22/2017 12:21:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.min.map">
+      <publishTime>02/22/2017 12:21:52</publishTime>
+    </File>
+    <File Include="Solicitudes.aspx">
+      <publishTime>02/23/2017 23:19:47</publishTime>
+    </File>
+    <File Include="style_jamarc.css">
+      <publishTime>02/28/2017 11:30:12</publishTime>
+    </File>
+    <File Include="style_jamarc.less">
+      <publishTime>02/22/2017 10:38:59</publishTime>
+    </File>
+    <File Include="Urgentes.aspx">
+      <publishTime>02/23/2017 23:00:26</publishTime>
+    </File>
+    <File Include="Usuarios.aspx">
+      <publishTime>02/23/2017 23:01:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/23/2017 21:14:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
