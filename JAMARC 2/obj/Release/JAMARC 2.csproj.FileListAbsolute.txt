@@ -17,3 +17,4 @@ C:\Users\cashland!\documents\visual studio 2015\Projects\JAMARC 2\JAMARC 2\bin\M
 C:\Users\cashland!\documents\visual studio 2015\Projects\JAMARC 2\JAMARC 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\cashland!\documents\visual studio 2015\Projects\JAMARC 2\JAMARC 2\obj\Release\JAMARC 2.dll
 C:\Users\cashland!\documents\visual studio 2015\Projects\JAMARC 2\JAMARC 2\obj\Release\JAMARC 2.pdb
+C:\Users\cashland!\Documents\Visual Studio 2015\Projects\JAMARC 2\JAMARC 2\obj\Release\JAMARC 2.csprojResolveAssemblyReference.cache

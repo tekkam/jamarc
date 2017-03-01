@@ -14,7 +14,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>02/23/2017 22:17:51</publishTime>
     </File>
     <File Include="bin/JAMARC 2.dll">
-      <publishTime>02/23/2017 23:37:12</publishTime>
+      <publishTime>03/01/2017 00:23:08</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>02/22/2017 10:59:49</publishTime>
@@ -59,19 +59,19 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>02/23/2017 22:43:47</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>02/23/2017 22:46:12</publishTime>
+      <publishTime>02/28/2017 11:55:31</publishTime>
     </File>
     <File Include="Historico.aspx">
       <publishTime>02/23/2017 23:20:30</publishTime>
     </File>
     <File Include="IngresarUsuario.aspx">
-      <publishTime>02/23/2017 22:50:46</publishTime>
+      <publishTime>02/28/2017 09:56:26</publishTime>
     </File>
     <File Include="Login.aspx">
-      <publishTime>02/23/2017 22:51:12</publishTime>
+      <publishTime>02/28/2017 10:04:13</publishTime>
     </File>
     <File Include="MasterPage.Master">
-      <publishTime>02/23/2017 10:15:10</publishTime>
+      <publishTime>02/28/2017 11:33:15</publishTime>
     </File>
     <File Include="ModificarSolicitud.aspx">
       <publishTime>02/23/2017 23:22:04</publishTime>
@@ -83,10 +83,10 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>02/23/2017 23:44:58</publishTime>
     </File>
     <File Include="PeticionesUsuario.aspx">
-      <publishTime>02/23/2017 23:34:10</publishTime>
+      <publishTime>02/28/2017 10:03:25</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>02/24/2017 00:54:50</publishTime>
+      <publishTime>03/01/2017 00:23:26</publishTime>
     </File>
     <File Include="RegistroUsuarios.aspx">
       <publishTime>02/23/2017 22:58:28</publishTime>
@@ -110,7 +110,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>02/22/2017 12:21:52</publishTime>
     </File>
     <File Include="Solicitudes.aspx">
-      <publishTime>02/23/2017 23:19:47</publishTime>
+      <publishTime>02/28/2017 10:16:58</publishTime>
     </File>
     <File Include="style_jamarc.css">
       <publishTime>02/28/2017 11:30:12</publishTime>
@@ -125,7 +125,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>02/23/2017 23:01:15</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>02/23/2017 21:14:51</publishTime>
+      <publishTime>03/01/2017 00:07:44</publishTime>
     </File>
   </ItemGroup>
 </Project>

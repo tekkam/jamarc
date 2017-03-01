@@ -10,6 +10,8 @@
         <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
         <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="style_jamarc.css" rel="stylesheet" />
+    <link href="style_jamarc.less" rel="stylesheet" />
     <title>Peticion Usuario</title>
     
     
@@ -38,18 +40,18 @@
             <p class="auto-style12">
                 <strong>Por favor facilite los siguientes datos:</strong></p>
             <p class="auto-style12">
-                <strong>Usuario afectado:</strong>&nbsp;
+                <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Usuario afectado:</strong>&nbsp;
                 <asp:DropDownList ID="DropDownList2" runat="server" Height="16px" Width="160px">
                 </asp:DropDownList>
             &nbsp;&nbsp;&nbsp;&nbsp;
                 <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Solicitar Usuario" Width="109px" />
             </p>
                             <p class="auto-style12">
-                <strong>Departamento:&nbsp;&nbsp; <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+                <strong>Departamento:&nbsp;&nbsp; &nbsp; <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
                 </strong>
             </p>
             <p class="auto-style12">
-                <strong>Tipo de servicio:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <strong>Tipo de servicio:</strong>&nbsp;&nbsp;&nbsp;
                 <asp:DropDownList ID="DropDownList1" runat="server">
                     <asp:ListItem>----</asp:ListItem>
                     <asp:ListItem>Instalacion de Red</asp:ListItem>
